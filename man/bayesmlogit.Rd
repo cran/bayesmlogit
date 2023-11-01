@@ -47,7 +47,7 @@ A Bayesian Multistate Life Table Method for survey data, developed by Lynch and 
 This function came from the deprecated \href{https://github.com/jwindle/BayesLogit}{bayeslogit} package, which conducts Bayesian multinomial logistic regressions using Polya-Gamma latent variables (Polson et al. 2013). It should be jointly used with the mlifetable() function, which will generate life tables based on the estimates from regressions.
 }
 \examples{
-\donttest{
+\dontrun{
 data <- lifedata
 y <- data[,1]
 X <- data[,-1]

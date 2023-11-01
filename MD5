@@ -1,4 +1,4 @@
-6cd430d40f23ebc5713f0a7e4f50358e *DESCRIPTION
+51fe0226641a5498e5d6e7b6737d4c4e *DESCRIPTION
 1f6265a47573bf16c3838ee02ccf541a *NAMESPACE
 03dddef4ba92cb641371b7ecc9a51c97 *R/CreateTrans.R
 73d640c7248e35079eca30976edb2499 *R/bayesmlogit.R
@@ -12,13 +12,13 @@ fd008eb1b585565e585f9dfb25935a6c *build/vignette.rds
 b05d3a3b663508192f8f1991c478eb81 *data/lifedata.rda
 365199f4223faefcc28a6d544a9403b7 *inst/doc/Introductory-to-Package.R
 dc3df02d8df0426b0eb54b11e49d027f *inst/doc/Introductory-to-Package.Rmd
-d2a63cbfade7aea3ca4d55ce06ef3515 *inst/doc/Introductory-to-Package.html
+fb662f792d5f120b98b309c85a48315f *inst/doc/Introductory-to-Package.html
 6805636f3d1e1b66290181eb4cdc19bd *man/CreateTrans.Rd
-2a4b5ab6bd56889f06856764a291fbd2 *man/bayesmlogit.Rd
-348d15ac7efd29d82d35d67ba2ff7186 *man/life_compare.Rd
+8a0cfe241d91544da8fc0abb429a33eb *man/bayesmlogit.Rd
+531c4b40acb52e08b47b2fc9216bbcc5 *man/life_compare.Rd
 22ffb891343e608ee9ad777abb183826 *man/lifedata.Rd
-438b6dd8cc696553d7c3cef759d6015d *man/mlifeTable.Rd
-930a66c29fd15fe63104ed96dea554e3 *man/mlifeTable_plot.Rd
+6eb072ad704c9ef2be36f6648fc96f28 *man/mlifeTable.Rd
+0000786d51b527967411b8ce0f6a15d2 *man/mlifeTable_plot.Rd
 dc3df02d8df0426b0eb54b11e49d027f *vignettes/Introductory-to-Package.Rmd
 ea19ec7e482e9cdac5aaa05d1c3401cd *vignettes/output1.png
 294407f052ce9cbe964511197119e3ca *vignettes/total_life_expectancy.png

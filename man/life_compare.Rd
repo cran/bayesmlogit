@@ -45,7 +45,7 @@ A \code{.csv} file with comparison results.
 A function for comparing the life expectancies of subgroups. This function will, by default, calculate the percentage of samples in your reference group with a higher (or lower) life expectancy (or proportion of total life expectancy) than other groups.
 }
 \examples{
-\donttest{
+\dontrun{
 
 #By setting the parameter 'compare' in mlifeTable_plot() to TRUE. 
 #We can directly employ this function.

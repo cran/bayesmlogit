@@ -66,7 +66,7 @@ A Bayesian Multistate Life Table Method for survey data, developed by Lynch and 
 This function generates life tables based on the estimates from the Bayesian multinomial logit regressions, which can be obtained using the \code{bayesmlogit()} function. The values in the generated life table represent the expected remaining years to be spent in each state conditional on a give age. Current version was designed to only generate life tables based on data with a death state.
 }
 \examples{
-\donttest{
+\dontrun{
 #The life tables generated in the example have 3 columns, which correspond to 3 states: 
 #1: health; 2: unhealthiness; 3: death;
 

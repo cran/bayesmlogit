@@ -51,7 +51,7 @@ Plots and tables for posterior means and credible intervals of each subgroups.
 A function for plotting posterior means and their credible intervals. It can also be used as a subfunction in \code{mlifetable()}.
 }
 \examples{
-\donttest{
+\dontrun{
 
 #Generate plots and corresponding tables only.
 mlifeTable_plot(X=lifedata[,-1],state.include = 0,
